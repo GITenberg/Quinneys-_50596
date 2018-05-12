@@ -1,4 +1,8 @@
 _repo: Quinneys-_50596
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50596-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Vachell, Horace Annesley
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3495
     wikipedia: http://en.wikipedia.org/wiki/Horace_Annesley_Vachell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50596#Quinneys-
 gutenberg_issued: '2015-12-02'
 gutenberg_type: Text
 identifiers:
